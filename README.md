@@ -1,4 +1,4 @@
-### Hi, I am Usama 👋
+### Hi, I am Usama. I am full stack developer 👋
 
 <!--
 **USAMA-NUSRAT/Usama-Nusrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
